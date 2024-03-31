@@ -1,18 +1,18 @@
 <h1>Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="30" height="30" />, I'm Sanjusha</h1>
-<p class="about">Over four years of professional experience, I've honed my skills in Python, JavaScript, HTML, SQL, and R, driven by a passion for learning. I thrive on exploring new technologies and consistently challenge myself to grow. Now, I'm eager to apply my expertise in new professional settings, committed to continuous learning and delivering innovative solutions.</p>
+<p class="about">I am currently working as an DevOps Engineer at a bank. After long, I’m getting back into Open Source contribution. Also, I love crocheting and painting in my free time, which I hardly get so it's like only on weekends.</p>
 <!--Skills section-->
 <h2>Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /></h2>
 <h3>Languages</h3>
 
-<img src="assets/javascript.png" alt="js" width="10" height="10">`JAVASCRIPT`
-<img src="assets/python.png" alt="python"  width="10" height="10">`PYTHON`
-<img src="assets/html.png" alt="html"  width="10" height="10">`HTML`
-<img src="assets/css.png" alt="css"  width="10" height="10">`CSS`
-<img src="assets/R.png" alt="r"  width="10" height="10">`R`
+<img src="assets/javascript.png" alt="js" width="13" height="13">`JAVASCRIPT`
+<img src="assets/python.png" alt="python"  width="13" height="13">`PYTHON`
+<img src="assets/html.png" alt="html"  width="13" height="13">`HTML`
+<img src="assets/css.png" alt="css"  width="13" height="13">`CSS`
+<img src="assets/R.png" alt="r"  width="13" height="13">`R`
 
 <h3>UI Frameworks/Tools</h3>
 
-<img src="assets/bootstrap.png" alt="bs"  width="10" height="10">`BOOTSTRAP`
+<img src="assets/bootstrap.png" alt="bs"  width="13" height="13">`BOOTSTRAP`
 
 <h3>Databases</h3>
 
