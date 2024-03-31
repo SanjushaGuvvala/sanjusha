@@ -14,7 +14,7 @@ h3 {
     font-family: 'Courier New', Courier, monospace;
 }
 
-ul {
+ul, p {
     line-height: 1.5em;
 }
 
@@ -318,5 +318,5 @@ ul {
 }
 
 a:link {
-    color:
+    color: black;
 }
